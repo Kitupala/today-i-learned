@@ -61,7 +61,7 @@ function Loader() {
 }
 
 function Header({ showForm, setShowForm }) {
-  const appTitle = "Today I Learned (...some React)";
+  const appTitle = "Today I Learned";
 
   return (
     <header className="header">
